@@ -1,0 +1,10 @@
+arr=[2,4,6,5,4,3,2,6,7]
+seen=[]
+
+for num in arr:
+    if num not in seen:
+        seen.append(num)
+    else :
+        print(num)
+        break
+
