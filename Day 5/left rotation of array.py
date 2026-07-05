@@ -3,7 +3,7 @@ first=arr[0]
 
 
 
-## another main approach 
+## another main approach without remove and append 
 
 for index in range(len(arr)-1):
 

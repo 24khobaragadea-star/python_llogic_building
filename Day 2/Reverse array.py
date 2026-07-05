@@ -3,6 +3,6 @@ index=5
 reverse_arr= []
 
 for num in arr:
-    reverse_arr.append(arr[index])
+    reverse_arr.append(arr[index])   ## IMP LINE FOR THIS CODE
     index=index-1
 print(reverse_arr)
