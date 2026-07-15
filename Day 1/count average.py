@@ -8,7 +8,7 @@ print(sum)
 
 for num in arr:
     count=count+1
-print(count)
+print(count) 
 
 average=sum/count
 print(average)
