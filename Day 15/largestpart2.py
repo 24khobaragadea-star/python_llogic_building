@@ -5,4 +5,4 @@ def largest(a,b,c):
         return b
     else:
         return c
-print(10 and 2 and 4)
+print(largest(1,20,3))
